@@ -1,0 +1,32 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/alina/vue/nuxtApp/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/alina/vue/nuxtApp/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "/Users/alina/vue/nuxtApp/pages/users/index.vue",
+    "chunkName": "pages/users/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/alina/vue/nuxtApp/pages/index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "/Users/alina/vue/nuxtApp/pages/users/_id.vue",
+    "chunkName": "pages/users/_id"
+  }
+]
